@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.99999in" height="2in" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 1999.99 2000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+   <clipPath id="id0">
+    <path d="M1000 1564.51l631.41 -724.08 -258.15 -296.04 -14.91 -17.1 -46.8 -53.67 -136.04 -16.65 -175.5 -21.49 -175.5 21.49 -136.04 16.65 -46.8 53.67 -14.91 17.1 -258.15 296.04 631.41 724.08z"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect fill="#FFF4ED" x="115.68" y="115.68" width="1768.64" height="1768.64" rx="213.87" ry="213.87"/>
+  <polygon fill="#DAEBDD" points="1000,1564.51 1631.4,840.43 1373.25,544.39 1358.34,527.3 1311.54,473.63 1175.5,456.98 1000,435.49 824.49,456.98 688.45,473.63 641.65,527.3 626.74,544.39 368.59,840.43 "/>
+  <g clip-path="url(#id0)">
+   <g id="_2498853349632">
+    <line id="_1" fill="none" x1="368.59" y1="840.43" x2="1631.4" y2= "840.43" />
+    <polygon fill="#FFEDB0" points="1373.07,840.43 1000,840.43 626.92,840.43 813.46,637.96 1000,435.49 1186.54,637.96 "/>
+    <polygon fill="#FFA900" points="626.74,544.39 368.59,840.43 626.92,840.43 641,546.14 641.65,527.3 "/>
+    <polygon fill="#FFD000" points="641,546.14 626.92,840.43 813.46,637.96 872,574.42 1000,435.49 824.49,456.98 688.45,473.63 641.65,527.3 "/>
+    <polygon fill="#FFA900" points="1373.25,544.39 1631.4,840.43 1373.07,840.43 1359,546.14 1358.34,527.3 "/>
+    <polygon fill="#FFD000" points="1359,546.14 1373.07,840.43 1186.54,637.96 1128,574.42 1000,435.49 1175.5,456.98 1311.54,473.63 1358.34,527.3 "/>
+    <polygon fill="#FC6200" points="1373.07,840.43 1000,1564.51 1631.4,840.43 "/>
+    <polygon fill="#FFA900" points="1000,1564.51 1373.07,840.43 1000,840.43 626.92,840.43 "/>
+    <polygon fill="#FC6200" points="1000,1564.51 626.92,840.43 368.59,840.43 "/>
+   </g>
+  </g>
+  <polygon fill="none" points="1000,1564.51 1631.4,840.43 1373.25,544.39 1358.34,527.3 1311.54,473.63 1175.5,456.98 1000,435.49 824.49,456.98 688.45,473.63 641.65,527.3 626.74,544.39 368.59,840.43 "/>
+ </g>
+</svg>
